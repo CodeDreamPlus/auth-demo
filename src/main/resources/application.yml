@@ -1,0 +1,5 @@
+spring:
+  security:
+    resource-server:
+      skip-url:
+        - "/test/**"
